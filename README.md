@@ -1,7 +1,7 @@
 # Hi 👋
 
 Electronic Information grad student @ SIST, ShanghaiTech University.
-Proud ZJU alumnus (B.Eng. Marine Engineering).
+ZJU alumnus (B.Eng. Marine Engineering).
 
 ### Now
 Working on **semantic communication**.
